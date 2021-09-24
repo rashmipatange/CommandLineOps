@@ -1,0 +1,3 @@
+Write a python program which can be executed via the commandline to take path to a
+text file as input and write out the counts of vowels in the file. Use inbuilt Python data
+structures and modules where applicable.
